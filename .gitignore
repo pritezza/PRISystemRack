@@ -4,3 +4,4 @@
 /build-dist/
 /dist/
 /VST3PluginCheck.md
+/.playwright-mcp/
